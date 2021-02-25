@@ -2,9 +2,9 @@
 Introduction
 There are enormouse amount of computer science and programming books, let alone resources in general, on the market today. Therefore, let's uncover those that are worth investment.
 
-The dataset we'll explore here holds a list of 270 books in the field of computer science and programming related topics.
+The dataset we'll explore here holds a list of 271 books in the field of computer science and programming related topics.
 
-The list of books was constructed using many popular websites which provide information on book ratings and of all the books in those websites the 270 most popular were selected.
+The list of books was constructed using many popular websites which provide information on book ratings and of all the books in those websites the 271 most popular were selected.
 
 Inside that dataset, you will find general information about the book including the number of pages in the book, the book types, the book descriptions, and the book prices.
 
