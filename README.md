@@ -1,4 +1,3 @@
-# RW.PYTH127
 # Introduction
 
 There are enormouse amount of computer science and programming books, let alone resources in general, on the market today. Therefore, let's uncover those that are worth investment.
@@ -9,10 +8,10 @@ The list of books was constructed using many popular websites which provide info
 
 Inside that dataset, you will find general information about the book including the number of pages in the book, the book types, the book descriptions, and the book prices.
 
-Purpose
+## Purpose
 Since there are enormouse amount of computer science and programming books on the market today, based on the information available in the data set, the goal here is identify those that are worth investment.
 
-Source: https://www.kaggle.com/thomaskonstantin/top-270-rated-computer-science-programing-books
+## Source: https://www.kaggle.com/thomaskonstantin/top-270-rated-computer-science-programing-books
 
 | Data Columns    | Data Type | Column Description                                                                                |
 |-----------------|-----------|---------------------------------------------------------------------------------------------------|
