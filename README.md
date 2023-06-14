@@ -9,7 +9,7 @@ The list of books was constructed using many popular websites which provide info
 Inside that dataset, you will find general information about the book including the number of pages in the book, the book types, the book descriptions, and the book prices.
 
 ## Purpose
-Since there are enormouse amount of computer science and programming books on the market today, based on the information available in the data set, the goal here is identify those that are worth investment.
+Since there are enormous amount of computer science and programming books on the market today, based on the information available in the data set, the goal here is identify those that are worth investment.
 
 ## Reference 
 https://www.kaggle.com/thomaskonstantin/top-270-rated-computer-science-programing-books
